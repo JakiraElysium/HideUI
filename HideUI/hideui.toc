@@ -1,7 +1,0 @@
-## Title: HideUI
-## Author: Jakira of Elysium Project
-## Interface: 11200
-## Notes: Hides parts of the default UI.
-## Version: 1.0
-
-core.lua
